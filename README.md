@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 心理咨询师
+- 🚀 日常主要技术:
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Node](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 - 💬 微信：tamya2020
 - 😄 不要着急，最好的总会在最不经意的时候出现。
 
